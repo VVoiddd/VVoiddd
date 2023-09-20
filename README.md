@@ -52,3 +52,5 @@
 - **Age**: 18
 - **Years Developing**: 2
 - **Time Zone**: EST
+- **Schooling**: 4 Year College Degree In Computer Engineering
+- **Schooling Progress**: 2 / 4 Years
