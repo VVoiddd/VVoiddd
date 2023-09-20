@@ -44,7 +44,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🌌 Stellar Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VVoiddd&layout=compact&theme=radical&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VVoiddd&layout=compact&theme=radical&langs_count=400)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VVoiddd)
 
