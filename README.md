@@ -44,11 +44,20 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🌌 Stellar Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VVoiddd&layout=compact&theme=radical&langs_count=400)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VVoiddd)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VVoiddd&show_icons=true&theme=radical)
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VVoiddd&theme=react-dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VVoiddd&layout=compact&theme=radical&langs_count=10)
 
-![Profile Views](https://komarev.com/ghpvc/?username=VVoiddd)
+## 🔧 Skills
+- **Python**: ⭐⭐⭐⭐⭐
+- **JavaScript**: ⭐⭐⭐⭐
+- **Go**: ⭐⭐⭐
+- **Rust**: ⭐⭐
+- **Vue.js**: ⭐⭐⭐
+- **Java**: ⭐⭐⭐
+- **C++**: ⭐⭐
+- **TypeScript**: ⭐⭐⭐
+- **Swift**: ⭐⭐
 
 ## 🌟 Personal Constellations
 - **Age**: 18
