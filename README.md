@@ -1,10 +1,10 @@
-# Greetings 
+# Greetings 🌌
 
 > "In the vast expanse of space, we find meaning in the silence." - Void
 
-## 🌠 Cosmic Technologies
+## 🚀 Cosmic Technologies
 
-### **🪐 Languages**: 
+### **🪐 Languages**:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -46,9 +46,7 @@
 ## 🌌 Stellar Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VVoiddd&layout=compact&theme=radical&langs_count=10)
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VVoiddd&show_icons=true&theme=radical)
-
 
 ## 🔧 Skills
 - **Python**: ⭐⭐⭐⭐⭐
