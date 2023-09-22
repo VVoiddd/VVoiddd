@@ -45,7 +45,7 @@
 
 ## 🌌 Stellar Statistics
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VVoiddd&layout=compact&theme=radical&langs_count=400)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VVoiddd&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VVoiddd&show_icons=true&theme=radical)
 
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VVoiddd&theme=react-dark)
 
