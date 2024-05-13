@@ -45,8 +45,8 @@
 - **Swift**: 🌑🌑
 
 ## 🌟 Personal Constellations
-- **Age**: 18
-- **Years Developing**: 2
+- **Age**: 19
+- **Years Developing**: 2 1/2
 - **Time Zone**: EST
 - **Schooling**: 4 Year College Degree In Computer Engineering
-- **Schooling Progress**: 2 / 4 Years
+- **Schooling Progress**: 1 / 4 Years
