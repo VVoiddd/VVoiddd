@@ -138,19 +138,19 @@
 
 <table>
 <tr>
-<td> **Age** </td>
+<td> Age </td>
 <td> 19 </td>
 </tr>
 <tr>
-<td> **Years Developing** </td>
+<td> Years Developing </td>
 <td> 3 </td>
 </tr>
 <tr>
-<td> **Time Zone** </td>
+<td> Time Zone </td>
 <td> EST </td>
 </tr>
 <tr>
-<td> **Schooling** </td>
+<td> Schooling </td>
 <td> Self Taught </td>
 </tr>
 </table>
