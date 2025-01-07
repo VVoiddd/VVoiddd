@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🟥 Greetings 🟥  
+# 🟦 Greetings 🟦  
 > "In the vast expanse of space, we find meaning in the silence." - Void  
 
 </div>  
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-### 🟥 **Languages**
+### 🟦 **Languages**
 <table>
 <tr>
 <td align="center">
@@ -36,7 +36,7 @@
 </tr>
 </table>
 
-### 🟥 **Frameworks & Libraries**
+### 🟦 **Frameworks & Libraries**
 <table>
 <tr>
 <td align="center">
@@ -57,7 +57,7 @@
 </tr>
 </table>
 
-### 🟥 **Databases**
+### 🟦 **Databases**
 <table>
 <tr>
 <td align="center">
@@ -75,7 +75,7 @@
 </tr>
 </table>
 
-### 🟥 **DevOps & Astral Tools**
+### 🟦 **DevOps & Astral Tools**
 <table>
 <tr>
 <td align="center">
@@ -102,7 +102,7 @@
 
 <div align="center">
   
-## 🟥 **Stellar Statistics**
+## 🟦 **Stellar Statistics**
 
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-## 🟥 **Skills**
+## 🟦 **Skills**
 
 <div align="center">
 
@@ -132,7 +132,7 @@
 
 <div align="center">
 
-## 🟥 **Personal Constellations**
+## 🟦 **Personal Constellations**
 
 <div align="center">
 
@@ -159,10 +159,10 @@
 
 <div align="center">
 
-## 🟥 **Contact**
+## 🟦 **Contact**
 
 <div align="center">
 
-- Discord: [tfbt](https://discord.com/users/your-discord-id)
+- Discord: [tfbt](https://discord.com/users/1121938502947459152)
 
 </div>
