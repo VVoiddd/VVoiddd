@@ -154,3 +154,15 @@
 <td> Self Taught </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🟥 **Contact**
+
+<div align="center">
+
+- Discord: [tfbt](https://discord.com/users/your-discord-id)
+
+</div>
