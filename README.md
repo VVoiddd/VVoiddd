@@ -140,11 +140,11 @@
 <table>
 <tr>
 <td> Age </td>
-<td> 19 </td>
+<td> 20 </td>
 </tr>
 <tr>
 <td> Years Developing </td>
-<td> 3 </td>
+<td> 4 </td>
 </tr>
 <tr>
 <td> Time Zone </td>
